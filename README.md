@@ -7,6 +7,8 @@ Crypto and programming fanatic turned web3 security researcher
 - [Panorama Swap](https://panoramaswap.com/) - AMM on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
 - [ArtZero](https://2269594053-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FIUePAHRueRJwqBWQY98a%2Fuploads%2FriYShPaMvjAizJoy8Xtq%2FBrushfam%20audit%20for%20ArtZero.pdf?alt=media&token=54ca8d0c-8ddc-4c02-9765-e566c3e84e62) - NFT marketplace on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
 
+*Note: reports above are from the publicly available websites of those protocols.*
+
 ## 🐕 Pet project:
 - [Shibawars](https://www.shibawars.net/) NFT Game on Shibarium network. Currently on pause - but coming back soon! 😃
 
