@@ -4,6 +4,12 @@ Crypto and programming fanatic turned web3 security researcher
 
 ## 🔒 Security portfolio:
 
+### Audit competitions:
+
+|Platform|Project|Info|Language|Score|Link|
+|--------|-------|----|--------|-----|----|
+|Hats.finance|[common](https://common.fi/)|DEX on [Aleph Zero](https://alephzero.org/)|[ink!](https://github.com/paritytech/ink) (Rust)|2/3 High|[Audit leaderboard](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)|
+
 ### As a part of [Brushfam](https://brushfam.io)
 
 - [Ink Whale](https://2364279095-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FL14My8oggxJwLrmNGe9e%2Fuploads%2FcukP52ehfiVVdrj8ctLd%2FAudit%20InkWhale%20__%20Brushfam.%20FINAL.pdf?alt=media&token=b1022d76-3aaa-429b-8bc7-72356486afab) - Token launchpad on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
