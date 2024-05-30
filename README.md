@@ -6,14 +6,14 @@ Crypto and programming fanatic turned web3 security researcher
 
 ### Audit competitions:
 
-|Platform|Project|Info|Language|Score|Link|
+|Platform|Project|Info|Language|Score|Report|
 |--------|-------|----|--------|-----|----|
-|Hats.finance|[common](https://common.fi/)|DEX on [Aleph Zero](https://alephzero.org/)|[ink!](https://github.com/paritytech/ink) (Rust)|2/3 High|[Audit leaderboard](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard)|
+|Hats.finance|[common](https://common.fi/)|DEX on [Aleph Zero](https://alephzero.org/)|[ink!](https://github.com/paritytech/ink) (Rust)|2/3 High|[Audit report](https://github.com/hats-finance/AlephZeroAMM-0x0d88a9ece90994ecb3ba704730819d71c139f60f/blob/8fb33da09b2c44b74b0e049dfeb5302def71e4fb/report.md)|
 
 ### As a part of [Brushfam](https://brushfam.io)
 
 - [Ink Whale](https://2364279095-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FL14My8oggxJwLrmNGe9e%2Fuploads%2FcukP52ehfiVVdrj8ctLd%2FAudit%20InkWhale%20__%20Brushfam.%20FINAL.pdf?alt=media&token=b1022d76-3aaa-429b-8bc7-72356486afab) - Token launchpad on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
-- [Panorama Swap](https://panoramaswap.com/) - AMM on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
+- [Panorama Swap](https://twitter.com/PanoramaSwap) - AMM on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
 - [ArtZero](https://2269594053-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FIUePAHRueRJwqBWQY98a%2Fuploads%2FriYShPaMvjAizJoy8Xtq%2FBrushfam%20audit%20for%20ArtZero.pdf?alt=media&token=54ca8d0c-8ddc-4c02-9765-e566c3e84e62) - NFT marketplace on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
 
 *Note: reports above are from the publicly available websites of those protocols.*
@@ -24,6 +24,8 @@ Crypto and programming fanatic turned web3 security researcher
 ## 🛠️ Previous work:
 
 - [Sol2Ink](https://github.com/Brushfam/sol2ink) Solidity to ink! transpiler in Rust, based on Solang
+  
+*fun fact, I used this on Uniswap V2 and compared to another AMM to identify this [high severity issue](https://github.com/hats-finance/AlephZeroAMM-0x0d88a9ece90994ecb3ba704730819d71c139f60f/issues/37) in an audit competition*
 - [OpenBrush](https://github.com/Brushfam/openbrush-contracts) ink! smart contract library
 
 <!--
