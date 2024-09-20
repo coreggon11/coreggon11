@@ -1,20 +1,29 @@
 ### Hola!
 
-Crypto and programming fanatic turned web3 security researcher
+I'm a web3 security researcher & hacker
+
+Don't care if it's a DEX, a lending protocol, or a blockchain, I will break anything
+
+Professional experience with Rust and Solidity, Java and C++, although language is not a barrier
 
 ## 🔒 Security portfolio:
 
 ### Audit competitions:
 
-|Platform|Project|Info|Language|Score|Report|
-|--------|-------|----|--------|-----|----|
-|Hats.finance|[common](https://common.fi/)|DEX on [Aleph Zero](https://alephzero.org/)|[ink!](https://github.com/paritytech/ink) (Rust)|2/3 High|[Audit report](https://github.com/hats-finance/AlephZeroAMM-0x0d88a9ece90994ecb3ba704730819d71c139f60f/blob/8fb33da09b2c44b74b0e049dfeb5302def71e4fb/report.md)|
-
-### As a part of [Brushfam](https://brushfam.io)
-
-- [Ink Whale](https://2364279095-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FL14My8oggxJwLrmNGe9e%2Fuploads%2FcukP52ehfiVVdrj8ctLd%2FAudit%20InkWhale%20__%20Brushfam.%20FINAL.pdf?alt=media&token=b1022d76-3aaa-429b-8bc7-72356486afab) - Token launchpad on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
-- [Panorama Swap](https://twitter.com/PanoramaSwap) - AMM on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
-- [ArtZero](https://2269594053-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FIUePAHRueRJwqBWQY98a%2Fuploads%2FriYShPaMvjAizJoy8Xtq%2FBrushfam%20audit%20for%20ArtZero.pdf?alt=media&token=54ca8d0c-8ddc-4c02-9765-e566c3e84e62) - NFT marketplace on [Aleph Zero](https://alephzero.org/) written in [ink!](https://github.com/paritytech/ink) (Rust)
+| Project       | Type        | Language | Date   | Review type              | Result                                                                                                                          |
+| ------------- | ----------- | -------- | ------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Reserve       | Stablecoin  | Solidity | AUG'24 | Code4rena competition    | [🥈 Rank: 2nd](https://code4rena.com/audits/2024-07-reserve-core)                                                               |
+| CCIP v1.5     | Cross-chain | Solidity | JUL'24 | CodeHawks competition    | Report not public                                                                                                               |
+| Grass         | Staking     | Solana   | JUN'24 | Cantina competition      | [Rank: 11th](https://cantina.xyz/leaderboard/3211ee0d-133f-43a0-837e-8dc1ecfaa424)                                              |
+| Euler         | Lending     | Solidity | MAY'24 | Cantina competition      | Report not public                                                                                                               |
+| Kintsu        | LST         | ink!     | MAY'24 | Hats.finance competition | [🥈 Rank: 2nd](https://app.hats.finance/audit-competitions/kintsu-0x7d70f9442af3a9a0a734fa6a1b4857f25518e9d2/leaderboard)       |
+| AAVE v3.1     | Lending     | Solidity | MAY'24 | Cantina competition      | [🥈 Rank: 2nd](https://cantina.xyz/competitions/5ffcedec-7e2e-4717-a3e4-e9041ca541c2/leaderboard)                               |
+| Curvance      | Lending     | Solidity | MAR'24 | Cantina competition      | [Rank: 15th](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff/leaderboard)                                 |
+| common AMM    | DEX         | ink!     | JAN'24 | Hats.finance competition | [🥇 Rank: 1st](https://app.hats.finance/audit-competitions/alephzeroamm-0x0d88a9ece90994ecb3ba704730819d71c139f60f/leaderboard) |
+| reNFT         | NFT         | Solidity | JAN'24 | Code4rena competition    | [Audit report](https://code4rena.com/reports/2024-01-renft)                                                                     |
+| Ink Whale     | Launchpad   | ink!     | OCT'23 | Brushfam Review          | [Audit report](https://tinyurl.com/inkwhale)                                                                                    |
+| Panorama Swap | DEX         | ink!     | AUG'23 | Brushfam Review          | [Report not public](https://x.com/PanoramaSwap)                                                                                 |
+| ArtZero       | NFT         | ink!     | MAR'23 | Brushfam Review          | [Audit report](https://tinyurl.com/artzero)                                                                                     |
 
 *Note: reports above are from the publicly available websites of those protocols.*
 
