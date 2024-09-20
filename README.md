@@ -8,8 +8,6 @@ Professional experience with Rust and Solidity, Java and C++, although language 
 
 ## 🔒 Security portfolio:
 
-### Audit competitions:
-
 | Project       | Type        | Language | Date   | Review type              | Result                                                                                                                          |
 | ------------- | ----------- | -------- | ------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | Reserve       | Stablecoin  | Solidity | AUG'24 | Code4rena competition    | [🥈 Rank: 2nd](https://code4rena.com/audits/2024-07-reserve-core)                                                               |
@@ -25,10 +23,7 @@ Professional experience with Rust and Solidity, Java and C++, although language 
 | Panorama Swap | DEX         | ink!     | AUG'23 | Brushfam Review          | [Report not public](https://x.com/PanoramaSwap)                                                                                 |
 | ArtZero       | NFT         | ink!     | MAR'23 | Brushfam Review          | [Audit report](https://tinyurl.com/artzero)                                                                                     |
 
-*Note: reports above are from the publicly available websites of those protocols.*
-
-## 🐕 Pet project:
-- [Shibawars](https://www.shibawars.net/) NFT Game on Shibarium network. Currently on pause - but coming back soon! 😃
+*Note: The reports above are from publicly available sources.*
 
 ## 🛠️ Previous work:
 
@@ -37,17 +32,5 @@ Professional experience with Rust and Solidity, Java and C++, although language 
 *fun fact, I used this on Uniswap V2 and compared to another AMM to identify this [high severity issue](https://github.com/hats-finance/AlephZeroAMM-0x0d88a9ece90994ecb3ba704730819d71c139f60f/issues/37) in an audit competition*
 - [OpenBrush](https://github.com/Brushfam/openbrush-contracts) ink! smart contract library
 
-<!--
-**coreggon11/coreggon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐕 Pet project:
+- [Shibawars](https://www.shibawars.net/) NFT Game on Shibarium network. Currently on pause - but coming back soon! 😃
