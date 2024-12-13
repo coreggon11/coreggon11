@@ -5,11 +5,11 @@ I'm a web3 security researcher & hacker
 Don't care if it's a DEX, a lending protocol, or a blockchain, I will break anything
 
 Professional experience with Rust and Solidity, Java and C++, language is not a barrier but I do enjoy Rust the most
-
 ## 🔒 Security portfolio:
 
 | Project       | Type        | Tech         | Date   | Review type                  | Result                                                                                                                           |
 | ------------- | ----------- | ------------ | ------ | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| InterPol      | Locker      | 💎 Solidity  | DEC'24 | **Cantina** competition      | [🥇 Rank: 1st](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard)                                |
 | Orderly Vault | Cross-chain | 🦀 Solana    | OCT'24 | **Sherlock** competition     | [🥇 Rank: 1st](https://audits.sherlock.xyz/contests/524?filter=results)                                                          |
 | Redstone      | Oracle      | ⛽ Sway      | SEP'24 | **Cantina** competition      | [Rank: 13th](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd/leaderboard)                                  |
 | Starknet      | Staking     | 🔮 Cairo     | SEP'24 | **CodeHawks** competition    | [Rank: 10th](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
