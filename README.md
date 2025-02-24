@@ -29,15 +29,15 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 ### 🕵️ Private work
 
-| Project | Type        | Tech        | Date   | Guild                  | Highlights           | Report                                                                                                  |
-| -------------- | ----------- | ----------- | ------ | ---------------------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
-| Daos.fun       | Fundraising | 🦀 Solana   | FEB'25 | **Solo**               | Solana program       | Private                                                                                                 |
-| Vector    | Limit order | 🦀 Solana   | FEB'25 | **Solo**               | On-chain & off-chain | Private                                                                                                 |
-| TBA            | TBA         | 🦀 Solana   | JAN'25 | **TBA**                | TBA                  | Private                                                                                                 |
-| InterPol       | Locker      | 💎 Solidity | JAN'25 | **Pashov Audit Group** | Identified all H/M   | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review_2024-12-24.pdf) |
-| Ink Whale      | Launchpad   | 🦀 ink!     | OCT'23 | **Brushfam**           | Rust smart contract  | [Report](https://tinyurl.com/inkwhale)                                                                  |
-| Panorama Swap  | DEX         | 🦀 ink!     | SEP'23 | **Brushfam**           | Rust smart contract  | Private                                                                                                 |
-| ArtZero        | NFT         | 🦀 ink!     | MAR'23 | **Brushfam**           | Rust smart contract  | [Report](https://tinyurl.com/artzero)                                                                   |
+| Project       | Type        | Tech        | Date   | Guild                  | Highlights           | Report                                                                                                  |
+| ------------- | ----------- | ----------- | ------ | ---------------------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
+| Daos.fun      | Fundraising | 🦀 Solana   | FEB'25 | **Solo**               | Solana program       | Private                                                                                                 |
+| Vector        | Limit order | 🦀 Solana   | FEB'25 | **Solo**               | On-chain & off-chain | Private                                                                                                 |
+| Redacted      | Pump curve  | 🦀 Solana   | JAN'25 | **Spearbit**           | Redacted             | Private                                                                                                 |
+| InterPol      | Locker      | 💎 Solidity | JAN'25 | **Pashov Audit Group** | Identified all H/M   | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review_2024-12-24.pdf) |
+| Ink Whale     | Launchpad   | 🦀 ink!     | OCT'23 | **Brushfam**           | Rust smart contract  | [Report](https://tinyurl.com/inkwhale)                                                                  |
+| Panorama Swap | DEX         | 🦀 ink!     | SEP'23 | **Brushfam**           | Rust smart contract  | Private                                                                                                 |
+| ArtZero       | NFT         | 🦀 ink!     | MAR'23 | **Brushfam**           | Rust smart contract  | [Report](https://tinyurl.com/artzero)                                                                   |
 
 _Note: The reports above are from publicly available sources._
 
