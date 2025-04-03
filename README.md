@@ -12,6 +12,7 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 | Project       | Type        | Tech         | Date   | Platform      | Result                                                                                                                                     |
 | ------------- | ----------- | ------------ | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Reserve DTFS  | DeFi        | 🦀 Solana    | MAR'25 | **Cantina**   | [🥈 Rank: 2nd](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a/leaderboard)                                          |
 | InterPol      | Locker      | 💎 Solidity  | DEC'24 | **Cantina**   | [🥇 Rank: 1st](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard)                                          |
 | Tensor        | NFT         | 🦀 Solana    | NOV'24 | **Cantina**   | [🥈 Rank: 2nd](https://cantina.xyz/competitions/21787352-de2c-4a77-af09-cc0a250d1f04/leaderboard)                                          |
 | Orderly Vault | Cross-chain | 🦀 Solana    | OCT'24 | **Sherlock**  | [🥇 Rank: 1st](https://audits.sherlock.xyz/contests/524?filter=results)                                                                    |
