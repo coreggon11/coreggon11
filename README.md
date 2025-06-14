@@ -31,17 +31,20 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 ### 🕵️ Private work
 
-| Project       | Type          | Tech        | Date   | Guild                  | Report                                                                                                  |
-| ------------- | ------------- | ----------- | ------ | ---------------------- | ------------------------------------------------------------------------------------------------------- |
-| Boop.fun      | Bonding curve | 🦀 Solana   | MAY'25 | **Sherlock collab**    | Private                                                                                                 |
-| Redacted      | Bonding curve | 🦀 Solana   | APR'25 | **Pashov Audit Group** | Private                                                                                                 |
-| Daos.fun      | Bonding curve | 🦀 Solana   | FEB'25 | **Solo**               | Private                                                                                                 |
-| Vector        | Limit order   | 🦀 Solana   | FEB'25 | **Solo**               | Private                                                                                                 |
-| Redacted      | Bonding curve | 🦀 Solana   | JAN'25 | **Spearbit**           | Private                                                                                                 |
-| InterPol      | Locker        | 💎 Solidity | JAN'25 | **Pashov Audit Group** | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review_2024-12-24.pdf) |
-| Ink Whale     | Launchpad     | 🦀 ink!     | OCT'23 | **Brushfam**           | [Report](https://tinyurl.com/inkwhale)                                                                  |
-| Panorama Swap | DEX           | 🦀 ink!     | SEP'23 | **Brushfam**           | Private                                                                                                 |
-| ArtZero       | NFT           | 🦀 ink!     | MAR'23 | **Brushfam**           | [Report](https://tinyurl.com/artzero)                                                                   |
+| Project       | Type          | Tech         | Date   | Guild                  | Report                                                                                                  |
+| ------------- | ------------- | ------------ | ------ | ---------------------- | ------------------------------------------------------------------------------------------------------- |
+| Boop.fun      | Bonding curve | 🦀 Solana    | JUN'25 | **Sherlock collab**    | Private                                                                                                 |
+| Daos.fun      | Bonding curve | 🦀 Solana    | MAY'25 | **Solo**               | Private                                                                                                 |
+| Redacted      | Node          | 🦀 Substrate | MAY'25 | **Spearbit**           | Private                                                                                                 |
+| Boop.fun      | Bonding curve | 🦀 Solana    | MAY'25 | **Sherlock collab**    | Private                                                                                                 |
+| Redacted      | Bonding curve | 🦀 Solana    | APR'25 | **Pashov Audit Group** | Private                                                                                                 |
+| Daos.fun      | Bonding curve | 🦀 Solana    | FEB'25 | **Solo**               | Private                                                                                                 |
+| Vector        | Limit order   | 🦀 Solana    | FEB'25 | **Solo**               | Private                                                                                                 |
+| Redacted      | Bonding curve | 🦀 Solana    | JAN'25 | **Spearbit**           | Private                                                                                                 |
+| InterPol      | Locker        | 💎 Solidity  | JAN'25 | **Pashov Audit Group** | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review_2024-12-24.pdf) |
+| Ink Whale     | Launchpad     | 🦀 ink!      | OCT'23 | **Brushfam**           | [Report](https://tinyurl.com/inkwhale)                                                                  |
+| Panorama Swap | DEX           | 🦀 ink!      | SEP'23 | **Brushfam**           | Private                                                                                                 |
+| ArtZero       | NFT           | 🦀 ink!      | MAR'23 | **Brushfam**           | [Report](https://tinyurl.com/artzero)                                                                   |
 
 _Note: The reports above are from publicly available sources._
 
