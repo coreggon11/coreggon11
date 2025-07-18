@@ -4,7 +4,7 @@ I'm a web3 security researcher & hacker
 
 Don't care if it's a DEX, a lending protocol, or a blockchain, I will break anything
 
-Professional experience with Rust and Solidity, Java and C++, language is not a barrier but I do enjoy Rust the most
+Professional experience with Rust and Solidity, Java and C++, language is not a barrier, but I do enjoy Rust the most
 
 ## 🔒 Security portfolio:
 
@@ -33,6 +33,7 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 | Project       | Type          | Tech         | Date   | Guild                  | Report                                                                                                  |
 | ------------- | ------------- | ------------ | ------ | ---------------------- | ------------------------------------------------------------------------------------------------------- |
+| 1inch         | Aggregator    | 🦀 Solana    | JUN'25 | **Sherlock collab**    | Private                                                                                                 |
 | Boop.fun      | Bonding curve | 🦀 Solana    | JUN'25 | **Sherlock collab**    | Private                                                                                                 |
 | Daos.fun      | Bonding curve | 🦀 Solana    | MAY'25 | **Solo**               | Private                                                                                                 |
 | Redacted      | Node          | 🦀 Substrate | MAY'25 | **Spearbit**           | Private                                                                                                 |
