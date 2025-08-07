@@ -33,6 +33,7 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 | Project       | Type          | Tech         | Date   | Guild                  | Report                                                                                                  |
 | ------------- | ------------- | ------------ | ------ | ---------------------- | ------------------------------------------------------------------------------------------------------- |
+| TBA           | TBA           | 🦀 Solana    | JUL'25 | **Zenith**             | TBA                                                                                                     |
 | 1inch         | Aggregator    | 🦀 Solana    | JUN'25 | **Sherlock collab**    | Private                                                                                                 |
 | Boop.fun      | Bonding curve | 🦀 Solana    | JUN'25 | **Sherlock collab**    | Private                                                                                                 |
 | Daos.fun      | Bonding curve | 🦀 Solana    | MAY'25 | **Solo**               | Private                                                                                                 |
@@ -46,6 +47,12 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 | Ink Whale     | Launchpad     | 🦀 ink!      | OCT'23 | **Brushfam**           | [Report](https://tinyurl.com/inkwhale)                                                                  |
 | Panorama Swap | DEX           | 🦀 ink!      | SEP'23 | **Brushfam**           | Private                                                                                                 |
 | ArtZero       | NFT           | 🦀 ink!      | MAR'23 | **Brushfam**           | [Report](https://tinyurl.com/artzero)                                                                   |
+
+### 🐛 Bug bounties
+
+| Severity | Project | Type | Tech | Date   | Platform     |
+| -------- | ------- | ---- | ---- | ------ | ------------ |
+| TBA      | TBA     | TBA  | TBA  | APR'25 | **Immunefi** |
 
 _Note: The reports above are from publicly available sources._
 
