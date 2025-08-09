@@ -50,9 +50,9 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 ### 🐛 Bug bounties
 
-| Severity | Project | Type | Tech | Date   | Platform     |
-| -------- | ------- | ---- | ---- | ------ | ------------ |
-| TBA      | TBA     | TBA  | TBA  | APR'25 | **Immunefi** |
+| Severity | Project  | Type     | Tech      | Date   | Platform     |
+| -------- | -------- | -------- | --------- | ------ | ------------ |
+| 1C 1H    | Redacted | Redacted | 🦀 Solana | APR'25 | **Immunefi** |
 
 _Note: The reports above are from publicly available sources._
 
