@@ -12,6 +12,7 @@ Professional experience with Rust and Solidity, Java and C++, language is not a 
 
 | Project       | Type        | Tech         | Date   | Platform      | Result                                                                                                                                     |
 | ------------- | ----------- | ------------ | ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dexalot       | Cross-chain | 🦀 Solana    | JUL'25 | **Hacken**    | [🥇 Rank: 1st](https://hackenproof.com/audit-programs/dexalot-sc-dualdefense-audit?tab=hackers)                                            |
 | Sociogram     | Pump curve  | 🦀 Solana    | MAR'25 | **Hacken**    | [🥇 Rank: 1st](https://hackenproof.com/audit-programs/sociogram-dualdefense-audit?tab=hackers)                                             |
 | Reserve DTFS  | DeFi        | 🦀 Solana    | MAR'25 | **Cantina**   | [🥈 Rank: 2nd](https://cantina.xyz/competitions/8b94becd-54e7-41cd-88e6-caae7becc76a/leaderboard)                                          |
 | InterPol      | Locker      | 💎 Solidity  | DEC'24 | **Cantina**   | [🥇 Rank: 1st](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard)                                          |
